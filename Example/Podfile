@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'YBModuleA_Example' do
+  pod 'YBModuleA', :path => '../'
+
+  target 'YBModuleA_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
