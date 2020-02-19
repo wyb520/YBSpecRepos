@@ -1,0 +1,16 @@
+PODS:
+  - YBModuleA (0.1.0)
+
+DEPENDENCIES:
+  - YBModuleA (from `../`)
+
+EXTERNAL SOURCES:
+  YBModuleA:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  YBModuleA: 86d9a4e4e2e472d27e839b5fd2c9896774c9069c
+
+PODFILE CHECKSUM: ce209d3b4af59bd53cfaac156c117fba2a55d3c5
+
+COCOAPODS: 1.8.4
