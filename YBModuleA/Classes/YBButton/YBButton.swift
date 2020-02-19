@@ -10,5 +10,8 @@ import UIKit
 class YBButton: UIButton {
 
     // 添加代码
+    
+//    var a: UILabel;
+    
 
 }
